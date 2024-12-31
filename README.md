@@ -16,13 +16,13 @@ Available data is from 1980.
 - **MongoDB** - For data storage
 ### Availble at
 ## Quick Start
-Base URL: `https://f1dataapi.depanshu.com/`
+Base URL: `https://f1dataapi.depanshu.com/api`
 
 Example requests:
 ```http
-GET /api/drivers?id=1          # Get specific driver
-GET /api/races?season=2023     # Get all races from 2023
-GET /api/constructors          # List all constructors
+GET /drivers?id=1          # Get specific driver
+GET /races?season=2023     # Get all races from 2023
+GET /constructors          # List all constructors
 ```
 
 ## API Documentation
