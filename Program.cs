@@ -11,7 +11,6 @@ builder.Services.AddCors(options =>
              .AllowAnyHeader()));
 // Add Scalar and OpenAPI services
 builder.Services.AddOpenApi();
-
 // Configure Mongo Db Database service
 try
 {

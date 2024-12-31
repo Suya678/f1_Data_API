@@ -8,7 +8,7 @@ Available data is from 1980.
 - Data coverage: 1980 - present
 - Some records may be incomplete or missing
 
-[View Interactive API Documentation](https://f1-historical-api.apidocumentation.com)
+[View Interactive API Documentation](https://f1dataapi.depanshu.com/scalar/v1)
 
 ## Tech Stack
 - **.NET**
@@ -16,7 +16,7 @@ Available data is from 1980.
 - **MongoDB** - For data storage
 ### Availble at
 ## Quick Start
-Base URL: `/api`
+Base URL: `https://f1dataapi.depanshu.com/`
 
 Example requests:
 ```http
@@ -26,7 +26,7 @@ GET /api/constructors          # List all constructors
 ```
 
 ## API Documentation
-Interactive documentation with full endpoint details is available throug [Scalar API Reference](https://f1-historical-api.apidocumentation.com).
+Interactive documentation with full endpoint details is available throug [Scalar API Reference](https://f1dataapi.depanshu.com/scalar/v1).
 
 
 ## Data Source
